@@ -83,11 +83,7 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 
 ## 📈 Activity Graph
 
-[
-
-![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-yadav-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
-
-](https://github.com/shubham-yadav-07)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-yadav-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B))
 
 ---
 
