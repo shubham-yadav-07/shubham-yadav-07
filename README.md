@@ -27,6 +27,7 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -70,6 +71,7 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 
 | Certificate | Issuer | Date |
 |---|---|---|
+| AWS Academy Graduate - Cloud Foundations | AWS Academy | Mar 2026 |
 | Advanced Software Engineering Job Simulation | Walmart Global Tech × Forage | Dec 2025 |
 | Data Visualisation: Empowering Business with Effective Insights | Tata × Forage | Nov 2025 |
 | Data Science for Everyone (180 hrs) | Reliance Foundation × Skill India | Nov 2025 |
