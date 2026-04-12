@@ -49,8 +49,13 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-yadav-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-yadav-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" width="40%"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=shubham-yadav-07&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-yadav-07&layout=compact&theme=tokyonight&hide_border=true)
 </p>
 
 ---
