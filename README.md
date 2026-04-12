@@ -57,23 +57,11 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 
 ## 🗂️ Featured Projects
 
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-yadav-07&repo=AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-&theme=tokyonight&hide_border=true)
-
-](https://github.com/shubham-yadav-07/AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-)
-
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-yadav-07&repo=Self-learning-ai&theme=tokyonight&hide_border=true)
-
-](https://github.com/shubham-yadav-07/Self-learning-ai)
-
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-yadav-07&repo=Employer_dashboard&theme=tokyonight&hide_border=true)
-
-](https://github.com/shubham-yadav-07/Employer_dashboard)
+- **[AI Vulnerability Scanner](https://github.com/shubham-yadav-07/AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-)** — Advanced AI-powered security vulnerability scanning tool
+- **[Self Learning AI](https://github.com/shubham-yadav-07/Self-learning-ai)** — Self-learning AI system built for Meta Hackathon using ML
+- **[Employer Dashboard](https://github.com/shubham-yadav-07/Employer_dashboard)** — Tkinter GUI app for recruitment data visualization from CSV
+- **[Price Tracker](https://github.com/shubham-yadav-07/price-tracker-python)** — Python-based real-time price tracking application
+- **[Data Analysis](https://github.com/shubham-yadav-07/Data-analysis)** — Collection of data analysis notebooks and projects
 
 ---
 
