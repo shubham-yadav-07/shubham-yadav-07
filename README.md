@@ -97,8 +97,3 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 
 ---
 
-<p align="center">
-  <img src="https://komainu8.github.io/github-profile-views-counter/api?username=shubham-yadav-07" />
-</p>
-
-<p align="center"><i>"Code. Learn. Build. Repeat." 🚀</i></p>
