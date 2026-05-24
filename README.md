@@ -55,6 +55,7 @@ Specializing in Data Science, Machine Learning & Full Stack Development.
 
 ## 🗂️ Featured Projects
 
+- **[TN Elections 2026 Analytics](https://github.com/shubham-yadav-07/TN-Elections-2026-Analytics)** — Election analytics with KMeans clustering and 3D visualizations
 - **[AI Vulnerability Scanner](https://github.com/shubham-yadav-07/AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-)** — Advanced AI-powered security vulnerability scanning tool
 - **[Self Learning AI](https://github.com/shubham-yadav-07/Self-learning-ai)** — Self-learning AI system built for Meta Hackathon using ML
 - **[Employer Dashboard](https://github.com/shubham-yadav-07/Employer_dashboard)** — Tkinter GUI app for recruitment data visualization from CSV
