@@ -13,7 +13,7 @@
 
 ## 💻 Profile
 
-B.E. Computer Science Engineering (AI/ML) @ Theem College of Engineering, Mumbai 
+B.E. Computer Science Engineering (AI/ML) @ Theem College of Engineering - Mumbai,
 Specializing in Data Science, Machine Learning & Full Stack Development.
 
 ---
