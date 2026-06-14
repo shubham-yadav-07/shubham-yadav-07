@@ -55,7 +55,8 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 
 ## 🗂️ Featured Projects
 
-- **[Syntax – AI Powered DSA Analysis Platform](https://github.com/shubham-yadav-07/Syntax)** — AI-powered platform for DSA code analysis, complexity detection, optimization suggestions, algorithm visualizations, and PDF report generation
+- **[Beyonder — AI-Powered Cybersecurity Platform](https://github.com/shubham-yadav-07/beyonder)** — AI-powered cybersecurity and digital resilience platform providing real-time threat monitoring, intelligent security analytics, blockchain-based audit logging, automated backup management, and AI-driven security assistance.
+- **[Syntax – AI Powered DSA Analysis Platform](https://github.com/shubham-yadav-07/Syntax)** — AI-powered platform for DSA code analysis, complexity detection, optimization suggestions, algorithm visualizations, and PDF report generation.
 - **[TN Elections 2026 Analytics](https://github.com/shubham-yadav-07/TN-Elections-2026-Analytics)** — Election analytics with KMeans clustering and 3D visualizations
 - **[AI Vulnerability Scanner](https://github.com/shubham-yadav-07/AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-)** — Advanced AI-powered security vulnerability scanning tool
 - **[Self Learning AI](https://github.com/shubham-yadav-07/Self-learning-ai)** — Self-learning AI system built for Meta Hackathon using ML
