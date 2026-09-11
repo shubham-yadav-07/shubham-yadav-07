@@ -72,6 +72,7 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 
 | Certificate | Issuer | Date |
 |---|---|---|
+| AI/ML for Geodata Analytics | ISRO × IIRS, Dehradun | Aug 2026 |
 | AWS Academy Graduate - Cloud Foundations | AWS Academy | Mar 2026 |
 | Advanced Software Engineering Job Simulation | Walmart Global Tech × Forage | Dec 2025 |
 | Data Visualisation: Empowering Business with Effective Insights | Tata × Forage | Nov 2025 |
