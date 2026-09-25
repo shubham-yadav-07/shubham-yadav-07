@@ -55,6 +55,7 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 
 ## 🗂️ Featured Projects
 
+- **[POLARLOGIX — Polar Expedition Logistics & Asset Management](https://github.com/shubham-yadav-07/POLARLOGIX)** — Offline-first platform for polar expedition logistics, cargo and asset tracking, inventory management, route planning, personnel movement, risk monitoring, and emergency response.
 - **[Deskline — Support Ticketing CRM](https://github.com/shubham-yadav-07/deskline-support-crm)** — Full-stack customer support ticketing system with ticket creation, live search/filtering, status management, and an internal note history, built with React, Express, and SQLite.
 - **[Beyonder — AI-Powered Cybersecurity Platform](https://github.com/shubham-yadav-07/beyonder)** — AI-powered cybersecurity and digital resilience platform providing real-time threat monitoring, intelligent security analytics, blockchain-based audit logging, automated backup management, and AI-driven security assistance.
 - **[Syntax – AI Powered DSA Analysis Platform](https://github.com/shubham-yadav-07/Syntax)** — AI-powered platform for DSA code analysis, complexity detection, optimization suggestions, algorithm visualizations, and PDF report generation.
