@@ -55,6 +55,8 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 
 ## 🗂️ Featured Projects
 
+
+- "NexlyticX — AI Intelligence for a Data-Driven Future" (https://github.com/shubham-yadav-07/Nexlyticx) — Full-stack data analytics platform for CSV data cleaning, exploratory data analysis (EDA), interactive visualizations, data trust scoring, and statistical analysis using pandas and SciPy, with an analytics Copilot, secure authentication, and downloadable reports. "Live Demo" (https://nexlyticx.onrender.com/)
 - **[POLARLOGIX — Polar Expedition Logistics & Asset Management](https://github.com/shubham-yadav-07/POLARLOGIX)** — Offline-first platform for polar expedition logistics, cargo and asset tracking, inventory management, route planning, personnel movement, risk monitoring, and emergency response.
 - **[Startup Funding DApp — Blockchain-Based Startup Funding Platform](https://github.com/shubham-yadav-07/Startup-funding-DApp)** — Blockchain-based decentralized application for managing startup funding through Ethereum smart contracts, with MetaMask integration, funding applications, approval workflows, ETH fund disbursement, and funding-status tracking on the Sepolia testnet.
 - **[Deskline — Support Ticketing CRM](https://github.com/shubham-yadav-07/deskline-support-crm)** — Full-stack customer support ticketing system with ticket creation, live search/filtering, status management, and an internal note history, built with React, Express, and SQLite.
