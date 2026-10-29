@@ -55,7 +55,6 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 
 ## 🗂️ Featured Projects
 
-
 - "NexlyticX — AI Intelligence for a Data-Driven Future" (https://github.com/shubham-yadav-07/Nexlyticx) — Full-stack data analytics platform for CSV data cleaning, exploratory data analysis (EDA), interactive visualizations, data trust scoring, and statistical analysis using pandas and SciPy, with an analytics Copilot, secure authentication, and downloadable reports. "Live Demo" (https://nexlyticx.onrender.com/)
 - **[POLARLOGIX — Polar Expedition Logistics & Asset Management](https://github.com/shubham-yadav-07/POLARLOGIX)** — Offline-first platform for polar expedition logistics, cargo and asset tracking, inventory management, route planning, personnel movement, risk monitoring, and emergency response.
 - **[Startup Funding DApp — Blockchain-Based Startup Funding Platform](https://github.com/shubham-yadav-07/Startup-funding-DApp)** — Blockchain-based decentralized application for managing startup funding through Ethereum smart contracts, with MetaMask integration, funding applications, approval workflows, ETH fund disbursement, and funding-status tracking on the Sepolia testnet.
@@ -65,9 +64,6 @@ Aspiring AI/ML Engineer & Full-Stack Developer | B.E. Computer Science Engineeri
 - **[TN Elections 2026 Analytics](https://github.com/shubham-yadav-07/TN-Elections-2026-Analytics)** — Election analytics with KMeans clustering and 3D visualizations
 - **[AI Vulnerability Scanner](https://github.com/shubham-yadav-07/AI-POWERD-VOLUNERBILITY-SCANNER-ADVANCED-)** — Advanced AI-powered security vulnerability scanning tool
 - **[Self Learning AI](https://github.com/shubham-yadav-07/Self-learning-ai)** — Self-learning AI system built for Meta Hackathon using ML
-- **[Employer Dashboard](https://github.com/shubham-yadav-07/Employer_dashboard)** — Tkinter GUI app for recruitment data visualization from CSV
-- **[Price Tracker](https://github.com/shubham-yadav-07/price-tracker-python)** — Python-based real-time price tracking application
-- **[Data Analysis](https://github.com/shubham-yadav-07/Data-analysis)** — Collection of data analysis notebooks and projects
 
 ---
 
